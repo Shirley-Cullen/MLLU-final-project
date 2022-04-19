@@ -1,2 +1,2 @@
 Model,BLEURT acc,bleu acc,rouge1 acc
-Base_test,0.1,0.3,0.0
+Base_test,0.8,0.6,0.5
