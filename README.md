@@ -5,7 +5,7 @@ aqa_v1 contains AdvasarialQA
 
 initial attempts contains basic experiments
 
-Plots A-F: contains all plots included in our research paper
+Plots: contains all plots included in our research paper
 
 TruthfulQA-main : TruthfulQA
 
